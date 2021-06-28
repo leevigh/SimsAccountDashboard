@@ -1,0 +1,32 @@
+@media print {
+    #sidebar {
+        display: none !important;
+    }
+
+    .navbar-menu-wrapper {
+        display: none !important;
+    }
+
+    .icon-menu {
+        display: none !important;
+    }
+
+    .brand-logo {
+        display: none !important;
+    }
+
+    .icon-bell {
+        display: none !important;
+    }
+
+    .btn {
+        display: none !important;
+    }
+
+    a > img {
+        display: none !important;
+    }
+
+
+
+}
